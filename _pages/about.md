@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Associate Professor, <a href='https://www.ic.uff.br/'>Instituto de Computação</a>, <a href='https://www.uff.br/'>Universidade Federal Fluminense</a>.
+subtitle: Associate Professor, Instituto de Computação, Universidade Federal Fluminense</a>.
 
 profile:
   align: right
@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an Associate Professor at the Institute of Computation of the Universidade Federal Fluminense in Niterói, Brazil. My research interests include autonomic computing, grid and cloud computing, parallel computing and scheduling, as well as security and identity management. I obtained a Ph.D. in Computer Science from the University of Edinburgh, United Kingdom.
+I am an Associate Professor at the [Institute of Computation](http://www.ic.uff.br) of the Universidade Federal Fluminense in Niterói, Brazil. My research interests include autonomic computing, grid and cloud computing, parallel computing and scheduling, as well as security and identity management. I obtained a Ph.D. in Computer Science from the University of Edinburgh, United Kingdom.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
