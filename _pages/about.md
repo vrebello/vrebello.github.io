@@ -1,23 +1,26 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Associate Professor, <a href='https://www.ic.uff.br/'>Instituto de Computação</a>, <a href='https://www.uff.br/'>Universidade Federal Fluminense</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: Vinod.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room 413, 4th floor</p>
+    <p>Q Block, Engineering Campus at Praia Vermelha</p>
+    <p>Av. Gal. Milton Tavares de Souza, s/nº</p>
+    <p>Niterói, RJ, Brazil. CEP: 24210-346</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+I am an Associate Professor at the Institute of Computation of the Universidade Federal Fluminense in Niterói, Brazil. My research interests include autonomic computing, grid and cloud computing, parallel computing and scheduling, as well as security and identity management. I obtained a Ph.D. in Computer Science from the University of Edinburgh, United Kingdom.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
