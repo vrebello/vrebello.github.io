@@ -5,12 +5,12 @@ permalink: /
 subtitle: Associate Professor, Instituto de Computação, Universidade Federal Fluminense</a>.
 
 profile:
-  align: right
+  align: left
   image: Vinod-sml.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Room 413, 4th floor</p>
-    <p>Q Block, Engineering Campus at Praia Vermelha</p>
+    <p>Room 413, 4th floor, Q Block,</p>
+    <p>Engineering Campus at Praia Vermelha</p>
     <p>Av. Gal. Milton Tavares de Souza, s/nº</p>
     <p>Niterói, RJ, Brazil. CEP: 24210-346</p>
 
