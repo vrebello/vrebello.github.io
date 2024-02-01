@@ -6,7 +6,7 @@ subtitle: Associate Professor, Instituto de Computação, Universidade Federal F
 
 profile:
   align: right
-  image: Vinod.jpg
+  image: Vinod-sml.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Room 413, 4th floor</p>
